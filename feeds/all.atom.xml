@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>chadmando</title><link href="https://chadmando.github.io/" rel="alternate"></link><link href="https://chadmando.github.io/feeds/all.atom.xml" rel="self"></link><id>https://chadmando.github.io/</id><updated>2010-12-05T19:30:00-06:00</updated><entry><title>My super title</title><link href="https://chadmando.github.io/my-super-title.html" rel="alternate"></link><published>2010-12-03T10:20:00-06:00</published><updated>2010-12-05T19:30:00-06:00</updated><author><name>Chad Miars</name></author><id>tag:chadmando.github.io,2010-12-03:/my-super-title.html</id><content type="html">&lt;h1&gt;First level heading&lt;/h1&gt;
+&lt;p&gt;first level test&lt;/p&gt;
+&lt;h2&gt;second level&lt;/h2&gt;
+&lt;p&gt;second level test&lt;/p&gt;</content><category term="Python"></category><category term="pelican"></category><category term="publishing"></category></entry></feed>
